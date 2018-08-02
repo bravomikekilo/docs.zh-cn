@@ -12,7 +12,7 @@ ms.locfileid: "34311996"
 ---
 # <a name="f-guide"></a>F# 指南
 
-F # 是一种功能的编程语言.NET 上运行。 它还具有对对象，blend 功能和对象编程的任何问题的实际解决方案让你完全支持。
+F # 是一种在.NET上运行的函数式编程语言。 它还具有对对象，blend 功能和对象编程的任何问题的实际解决方案让你完全支持。
 
 ```fsharp
 open System // Get access to functionality in System namespace.
